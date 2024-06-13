@@ -1,2 +1,2 @@
-forge build
-forge test
++ forge build
++ forge test
